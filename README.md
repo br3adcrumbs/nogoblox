@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nogoblox
 - 👀 I’m interested in tech, programming and video games.
-- 🌱 I’m currently learning Java programming
+- 🌱 I’m currently on a break.
 - 📫 You can contact me via Twitter @nogoblox
 
 <!---
